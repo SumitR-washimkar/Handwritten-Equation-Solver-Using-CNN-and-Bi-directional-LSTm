@@ -6,8 +6,7 @@ This repository contains a deep learning model that converts input images into L
 
 ## 📁 Repository Structure
 
-``` bash
-
+<pre>
 .
 ├── Modules/                                 # Contains core Python modules (model components, utils, etc.)
 │   ├── _init_.py
@@ -27,3 +26,4 @@ This repository contains a deep learning model that converts input images into L
 |   ├── Demo Image
 |   └── caption_data.csv
 └── README.md                                 # Project documentation
+</pre>  
